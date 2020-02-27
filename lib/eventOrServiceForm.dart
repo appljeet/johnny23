@@ -31,7 +31,7 @@ class eventOrService extends State<eventOrServiceState>{
     var pageView = PageView(
         controller: controller,
         children: <Widget>[
-        
+
 
         ],
         onPageChanged: (int page){}
