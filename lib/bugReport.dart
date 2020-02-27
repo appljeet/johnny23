@@ -21,7 +21,7 @@ class bugReport extends StatelessWidget{
         ),
 
         Container(
-          decoration: BoxDecoration(image: DecorationImage(image: AssetImage('image/messageBackground.png'), fit: BoxFit.cover)),
+          decoration: BoxDecoration(image: DecorationImage(image: AssetImage('image/messageBackground.png'))),
         ),
 
 
